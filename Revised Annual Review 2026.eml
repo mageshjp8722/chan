@@ -1,0 +1,659 @@
+Received: from KL1PR01MB5921.apcprd01.prod.exchangelabs.com
+ (2603:1096:820:120::6) by SI2PR01MB4178.apcprd01.prod.exchangelabs.com with
+ HTTPS; Wed, 22 Apr 2026 09:35:38 +0000
+Received: from PSBPR02CA0013.apcprd02.prod.outlook.com (2603:1096:301::23) by
+ KL1PR01MB5921.apcprd01.prod.exchangelabs.com (2603:1096:820:120::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9846.16; Wed, 22 Apr
+ 2026 09:35:31 +0000
+Received: from TY2PEPF0000AB8A.apcprd03.prod.outlook.com
+ (2603:1096:301:0:cafe::5c) by PSBPR02CA0013.outlook.office365.com
+ (2603:1096:301::23) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9791.48 via Frontend Transport; Wed,
+ 22 Apr 2026 09:35:31 +0000
+Received: from mail.deltaww.com (122.147.136.40) by
+ TY2PEPF0000AB8A.mail.protection.outlook.com (10.167.253.8) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.20.9846.18 via Frontend Transport; Wed, 22 Apr 2026 09:35:31 +0000
+Received: from TWTPEEXMBS03.delta.corp (10.136.140.189) by
+ TWTAOEXHYBRID01.delta.corp (10.143.156.81) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.59; Wed, 22 Apr 2026 17:34:45 +0800
+Received: from TWTPEEXMBS04.delta.corp (10.136.140.190) by
+ TWTPEEXMBS03.delta.corp (10.136.140.189) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.59; Wed, 22 Apr 2026 17:34:44 +0800
+Received: from TWTPEEXMBS04.delta.corp ([::1]) by TWTPEEXMBS04.delta.corp
+ ([fe80::2432:a6ae:8a2c:9617%3]) with mapi id 15.01.2507.059; Wed, 22 Apr 2026
+ 17:34:44 +0800
+From: "Corporate.IndHR" <Corporate.IndHR@deltaww.com>
+To: "Magesh.J" <Magesh.J@deltaww.com>
+Subject: Revised Annual Review 2026
+Thread-Topic: Revised Annual Review 2026
+Thread-Index: AdzSOjR0OHkRZOmoSb+rFCSYl+jQlg==
+Date: Wed, 22 Apr 2026 09:31:30 +0000
+Message-ID: <c1accc8b7a764cec9086e9d2b0952612@deltaww.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: TWTPEEXMBS04.delta.corp
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	a7a5d44b-01f0-4226-ce7c-08dea0527f42
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: Pass (protection.outlook.com: domain of deltaww.com designates
+ 122.147.136.40 as permitted sender) receiver=protection.outlook.com;
+ client-ip=122.147.136.40; helo=mail.deltaww.com; pr=C
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	iy656u5ydaGsWpRGXouuv0V4q/MXVKFLfRGYuDDYobhqpcd6rIJ/H/sRUtcErEUiQ2Rt5rV3SrYg0QT3Qm+pI/8MBT25zVfUIWImtP4ewpBKk9OzdrI5tbp2eHXoaAD+BZRAb+oSBKULReL0+JDwhzAA743c0LVFnh3JIksQR6LZxpSdv2zwsfeV7GDaK52t/i7/CyvXIqrVogk0rlo7So5tsT5Shjb1Gg4RGk208d96zproWNEV7ROgFOyhNzCrRQXeNUFr/8IXYMXOHGnyERSE4Hvw7pHUh3x/8hpXzDFT8bLyuLvR29nKq/HiIKrBWxhh5VxuCOLDcNDok0a7JyHnXb1ocmeMNJdnE+2+VnWh+u9oNA4JaXkEkpg4gbrWE7dBaH6AfwYeA6QdEG6HP+FwXnGTs39RSTcamFpODrXhJPTpyYNPd6IMabgmJdIhkFdd4E3EqKp+CFz25bqlSP0u7rPN6agkimPdPIHSweshjyd8070NxC1nUjwEurwkVLBy8wZVd+ZzgnnlFpJUhlPGltcrGgkCp9r1BE9zJhygKGVNdPTzM0TBPL2lh+xRT4rDTi3bQAse/6bXix/DNehRgezs23O+bFhrHAHf694Tj89W0U2yHdbZunUAWgcHeY9mxluhAqsu0WGhc/gvpwuGTn0PUbaATBhQNK7Q3Dlta59utmEZRBSXIM05BIYg/TnVOJuhrp61EUw0xxTePvnsetzarbXiQHKtFVMcC8UGJYZVAuw4ZqtcOLcXvfHEpy0flbyNjXUdGqofksvGc1d6NqhEPCE5jwa5VWRTNtHiRYiw+WcJx43334WKMRrIZlpZ0shmL2P6GwwIspcz0dOpOePNOy3Qr5iIFso+2FHuQdilis0TQn57ZboAv+ifXmqAlWMmeaUzwgFRFMduRQ==
+Content-Type: multipart/alternative;
+	boundary="_000_c1accc8b7a764cec9086e9d2b0952612deltawwcom_"
+MIME-Version: 1.0
+
+--_000_c1accc8b7a764cec9086e9d2b0952612deltawwcom_
+Content-Type: text/plain; charset="us-ascii"
+
+Name                    :              Magesh J
+
+Employee Id        :              87291122
+
+Grade                   :              A6
+
+
+Dear Magesh,
+
+The management is pleased to inform that your compensation has been revised as per the below annexure effective 1st April 2026.
+
+Please be advised that the remuneration is a matter between the employee and the company and these changes should therefore, be treated in strict confidence.
+
+Salary Components
+Per Annum
+Per Month
+
+
+Effective 01st April 2026
+Basic Salary
+248,700
+20,725
+
+HRA
+124,356
+10,363
+
+Special Allowance
+1,200
+100
+
+Vehicle Allowance
+69,312
+5,776
+
+Washing Allowance
+24,000
+2,000
+
+Employer's Contribution to PF
+29,844
+2,487
+
+Gross                                      (A)
+497,412
+41,451
+
+LTA                                         (B)
+
+
+Annual Fixed Salary                      (A+B)
+497,412
+
+
+
+
+
+
+Annual Variable Payment
+
+
+
+Performance Bonus (PB) on Rating "M"
+41,451
+
+
+
+Profit Incentive (PI)
+37,306
+
+
+
+
+
+
+
+
+Annual CTC (Fixed Salary + Variable Payment)
+576,169
+
+
+
+
+Note:
+
+1.      Annual Variable Payment:
+
+*        Performance Bonus (PB) is payable on individual performance.
+
+*        Profit Incentive (PI) is payable based on Organization and department performance. The profit incentive is payable upto 200%
+
+2.      Leave Encashment and Gratuity will be paid as per the company policy.
+
+Important Point:
+The revised salary structure has been aligned in compliance with the provisions of the Code on Wages, 2019, ensuring that Basic Salary constitutes at least 50% of the Fixed Wages. However, this change does not impact your Annual Fixed Salary.
+
+
+
+
+With Best Wishes,
+Regards
+
+Corporate HR
+
+--_000_c1accc8b7a764cec9086e9d2b0952612deltawwcom_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-ligatures:none;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:393116097;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1668294678 1074331649 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:3.25in;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:4.75in;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1260722337;
+	mso-list-type:hybrid;
+	mso-list-template-ids:850547290 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level1 lfo2
+	{mso-level-start-at:0;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt">Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Magesh J<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt">Employee Id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 87291122<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt">Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A6<o:p></o:p></span></b></p>
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">Dear Magesh,<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">The management is pleased to inform that your compensation has been revised as per the below annexure effective 1<sup>st</sup> April 2026.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">Please be advised that the remuneration is a matter between the employee and the company and these changes should therefore, be treated in strict confidence.
+</span><span lang="EN-IN" style="font-size:10.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><b><span style="font-size:10.0pt">Salary Components<o:p></o:p></span></b></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="635" style="width:475.9pt;border-collapse:collapse">
+<tbody>
+<tr style="height:15.55pt">
+<td width="304" rowspan="2" style="width:228.3pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.55pt">
+</td>
+<td width="128" rowspan="2" style="width:96.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.55pt">
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:10.0pt;color:black">Per Annum<o:p></o:p></span></b></p>
+</td>
+<td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.55pt">
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:10.0pt;color:black">Per Month<o:p></o:p></span></b></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:15.55pt">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:11.45pt">
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:11.45pt">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:14.7pt">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.7pt">
+</td>
+<td width="253" colspan="2" style="width:189.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.7pt">
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:10.0pt;color:black">Effective 01<sup>st</sup> April 2026<o:p></o:p></span></b></p>
+</td>
+<td width="77" colspan="2" style="width:57.65pt;border:none;padding:0in 0in 0in 0in;height:14.7pt">
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">Basic Salary<o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">248,700</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">20,725</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">HRA<o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">124,356</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">10,363</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">Special Allowance<o:p></o:p></span></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">1,200</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">100</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">Vehicle Allowance<o:p></o:p></span></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">69,312</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">5,776</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">Washing Allowance<o:p></o:p></span></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">24,000</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">2,000</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black">Employer&#8217;s Contribution to PF<o:p></o:p></span></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black">29,844</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black">2,487</span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><b><span style="font-size:10.0pt;color:black">Gross&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A)<o:p></o:p></span></b></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><b><span style="font-size:10.0pt;color:black">497,412</span></b><b><span style="font-size:10.0pt;color:black"><o:p></o:p></span></b></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<b><span style="font-size:10.0pt;color:black">41,451</span></b><b><span style="font-size:10.0pt;color:black"><o:p></o:p></span></b></p>
+</td>
+<td width="16" style="width:12.25pt;border:none;padding:0in 0in 0in 0in;height:.2in">
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><b><span style="font-size:10.0pt;color:black">LTA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (B)<o:p></o:p></span></b></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black"></span><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in"></td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><b><span style="font-size:10.0pt;color:black">Annual Fixed Salary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (A+B)<o:p></o:p></span></b></p>
+</td>
+<td width="128" nowrap="" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><b><span style="font-size:10.0pt;color:black">497,412</span></b><b><span style="font-size:10.0pt;color:black"><o:p></o:p></span></b></p>
+</td>
+<td width="125" nowrap="" style="width:93.95pt;border-top:none;border-left:none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<b><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in"></td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:9.0pt"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in"></td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:12.6pt"><b><span style="font-size:10.0pt">Annual Variable Payment</span></b><span style="font-size:10.0pt"><o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in"></td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:12.6pt"><span style="font-size:10.0pt">Performance Bonus (PB) on Rating &#8220;M&#8221;<o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt">41,451</span><span style="font-size:10.0pt"><o:p></o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in">
+<p class="MsoNormal"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:12.6pt"><span style="font-size:10.0pt">Profit Incentive (PI)<o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><span style="font-size:10.0pt">37,306</span><span style="font-size:10.0pt"><o:p></o:p></span></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in">
+<p class="MsoNormal"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal"><span style="font-size:10.0pt">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><b><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in">
+<p class="MsoNormal"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style="height:.2in">
+<td width="304" style="width:228.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" style="margin-left:17.1pt"><b><span style="font-size:10.0pt">Annual CTC (Fixed Salary + Variable Payment)</span></b><span style="font-size:10.0pt"><o:p></o:p></span></p>
+</td>
+<td width="128" style="width:96.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:21.3pt;text-align:right"><b><span style="font-size:10.0pt">576,169</span></b><b><span style="font-size:10.0pt"><o:p></o:p></span></b></p>
+</td>
+<td width="125" style="width:93.95pt;border:none;padding:0in 5.4pt 0in 5.4pt;height:.2in">
+<p class="MsoNormal" align="right" style="margin-right:16.15pt;text-align:right">
+<span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="16" style="width:12.25pt;padding:0in 0in 0in 0in;height:.2in">
+<p class="MsoNormal"><span style="font-size:10.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="border:none;padding:0in 0in 0in 0in" width="61">
+<p class="MsoNormal">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt">Note: <o:p></o:p></span></p>
+<p class="MsoListParagraph" style="text-indent:-.25in;mso-list:l1 level1 lfo1"><![if !supportLists]><span lang="EN-IN" style="font-size:10.0pt"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style="font-size:10.0pt">Annual Variable Payment:</span><span lang="EN-IN" style="font-size:10.0pt"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-left:.75in;text-indent:-.25in;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span lang="EN-IN" style="font-size:10.0pt;font-family:Symbol"><span style="mso-list:Ignore">&middot;<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style="font-size:10.0pt">Performance Bonus (PB) is payable on individual performance.</span><span lang="EN-IN" style="font-size:10.0pt"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-left:.75in;text-indent:-.25in;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span lang="EN-IN" style="font-size:10.0pt;font-family:Symbol"><span style="mso-list:Ignore">&middot;<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang="EN-IN" style="font-size:10.0pt">Profit Incentive (PI) is payable based on Organization and department performance. The profit incentive is payable upto 200%<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="text-indent:-.25in;mso-list:l1 level1 lfo1"><![if !supportLists]><span lang="EN-IN" style="font-size:10.0pt"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style="font-size:10.0pt">Leave Encashment and Gratuity will be paid as per the company policy.</span><span lang="EN-IN" style="font-size:10.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><b><span style="font-size:10.0pt">Important Point: <o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">The revised salary structure has been aligned in compliance with the provisions of the Code on Wages, 2019, ensuring that Basic Salary constitutes at least 50% of the Fixed Wages.
+ However, this change does not impact your Annual Fixed Salary.<o:p></o:p></span></p>
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNoSpacing"><b><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal"><span style="font-size:10.0pt">With Best Wishes,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt">Regards<o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style="font-size:10.0pt"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal"><b><span style="font-size:10.0pt">Corporate HR</span></b><span style="font-size:10.0pt"><o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_c1accc8b7a764cec9086e9d2b0952612deltawwcom_--
